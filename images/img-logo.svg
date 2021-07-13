@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="45px" viewBox="0 0 90 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img-logo</title>
+    <g id="MDv5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-70.000000, -40.000000)" fill-rule="nonzero">
+            <g id="img-logo" transform="translate(70.000000, 40.000000)">
+                <polygon id="Triangle" fill="#FA7660" points="22.5 22.5 0 45 0 0"></polygon>
+                <polygon id="Triangle" fill="#FFFFFF" transform="translate(33.750000, 22.500000) scale(-1, 1) translate(-33.750000, -22.500000) " points="45 22.5 22.5 45 22.5 0"></polygon>
+                <polygon id="Triangle" fill="#F4B7B7" transform="translate(22.500000, 33.750000) scale(-1, 1) rotate(-90.000000) translate(-22.500000, -33.750000) " points="33.75 33.75 11.25 56.25 11.25 11.25"></polygon>
+                <rect id="Rectangle-2" fill="#8DD1DB" x="45" y="0" width="22.5" height="45"></rect>
+                <path d="M67.5,0 C79.9264069,0 90,10.0735931 90,22.5 C90,34.9264069 79.9264069,45 67.5,45 L67.5,45 Z" id="Combined-Shape" fill="#051319"></path>
+            </g>
+        </g>
+    </g>
+</svg>
